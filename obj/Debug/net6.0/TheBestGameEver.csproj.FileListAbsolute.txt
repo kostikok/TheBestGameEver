@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\bin\Debug\net6.0\TheBestGameEver.exe
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\bin\Debug\net6.0\TheBestGameEver.deps.json
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\bin\Debug\net6.0\TheBestGameEver.runtimeconfig.json
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\bin\Debug\net6.0\TheBestGameEver.dll
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\bin\Debug\net6.0\TheBestGameEver.pdb
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\obj\Debug\net6.0\TheBestGameEver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\obj\Debug\net6.0\TheBestGameEver.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\obj\Debug\net6.0\TheBestGameEver.AssemblyInfo.cs
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\obj\Debug\net6.0\TheBestGameEver.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\obj\Debug\net6.0\TheBestGameEver.dll
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\obj\Debug\net6.0\refint\TheBestGameEver.dll
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\obj\Debug\net6.0\TheBestGameEver.pdb
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\obj\Debug\net6.0\TheBestGameEver.genruntimeconfig.cache
+C:\Users\user\Desktop\Лавренов 24ИС11-2\TheBestGameEver\obj\Debug\net6.0\ref\TheBestGameEver.dll
